@@ -1,1 +1,1 @@
-Backend Theme: Dark Mode
+Main version: Dark Theme
