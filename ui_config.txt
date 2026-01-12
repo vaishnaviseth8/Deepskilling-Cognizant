@@ -1,1 +1,1 @@
-Feature branch says: Red Theme
+Feature version: Light Theme
