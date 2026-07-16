@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Main version: Dark Theme
-=======
-Feature version: Light Theme
->>>>>>> feature-ui
