@@ -1,0 +1,35 @@
+.mydiv{
+
+    text-align:center;
+
+    margin-top:40px;
+
+}
+
+h1{
+
+    color:green;
+
+}
+
+table{
+
+    margin:auto;
+
+    border-collapse:collapse;
+
+}
+
+th{
+
+    color:green;
+
+    padding:8px;
+
+}
+
+td{
+
+    padding:8px 15px;
+
+}

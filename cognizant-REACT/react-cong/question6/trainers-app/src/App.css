@@ -1,0 +1,16 @@
+.container{
+    width:500px;
+    border:1px solid black;
+    padding:15px;
+    margin:20px;
+}
+
+a{
+    color:blue;
+    text-decoration:none;
+    margin-right:10px;
+}
+
+a:hover{
+    text-decoration:underline;
+}
