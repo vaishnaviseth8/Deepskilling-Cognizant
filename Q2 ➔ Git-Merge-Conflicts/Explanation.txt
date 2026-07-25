@@ -1,0 +1,13 @@
+1. What is Git Ignore?
+- A .gitignore file is a configuration file that tells Git which files or folders inside the repository should not be tracked (ignored).
+- It is useful for temporary files, logs, build artifacts, environment variables (.env), or IDE-specific settings.
+
+2. How to implement it:
+- Create a .gitignore file inside the repository or a specific folder.
+- Add the file patterns or paths that you want to ignore inside this file.
+  Example:
+  *.log -> Ignores all files with a .log extension.
+  log/ -> Ignores the entire log folder.
+
+3. Verification:
+- When running 'git status', the unwanted files specified in the .gitignore file do not appear in the working directory or untracked list, keeping the repository clean.

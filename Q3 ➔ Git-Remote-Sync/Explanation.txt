@@ -1,0 +1,7 @@
+1. Branching in Git:
+- Branching allows you to diverge from the main line of development to work on features or fixes independently without affecting the master branch.
+- 'git branch <branch-name>' creates a new branch, and 'git checkout <branch-name>' switches to it.
+
+2. Merging in Git:
+- Merging integrates the changes from a feature branch back into the main trunk/master branch using 'git merge <branch-name>'.
+- 'git diff' shows the differences between branches, and 'git branch -d' safely deletes the branch once merged.

@@ -1,0 +1,3 @@
+Question: Explain how to clean up and push back to remote Git.
+
+Answer: Cleaning up and pushing back to a remote Git repository involves verifying that your local working directory is in a clean state using status checks, listing your branches to confirm your current workspace, pulling any latest updates from the remote repository to ensure synchronization, and finally pushing your local commits and merged changes up to the remote repository.
